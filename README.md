@@ -97,7 +97,23 @@ I specialize in **Model-Agnostic AI Integration** and **robust full-stack automa
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <h3 align="center">🏛️ Madrasha Management ERP</h3>
+      <p align="center"><strong>Enterprise Multi-Tenant SaaS Platform</strong></p>
+      <p>Mission-critical Madrasa ERP & SaaS hub with 42 relational models, React 18 dashboard, and immutable financial ledger.</p>
+      <ul>
+        <li>💰 <strong>Finance & POS:</strong> Mess/bazaar costs, fee waivers & cash closing</li>
+        <li>📖 <strong>Academic & Hifz:</strong> Sabaq, Sabqi & Amokhta 3-tier tracker</li>
+        <li>🛏️ <strong>Hostel & Safety:</strong> Dining counts, room allocation & QR gatepass</li>
+        <li>🛡️ <strong>Zero-Trust Security:</strong> Argon2id, JWT, AES-256-GCM & BullMQ</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/mdsharifmia-dev/Madrasha-Management-Software">
+          <img src="https://img.shields.io/badge/View_Architecture_&_Code-238636?style=for-the-badge&logo=github&logoColor=white" width="100%" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">📰 News Collector Agent</h3>
       <p align="center"><strong>Autonomous Multi-Tool News & Intelligence Suite</strong></p>
       <p>Autonomous 24/7 personal news aggregator & AI agent with dynamic <strong>multi-model API support & native function calling</strong>.</p>
@@ -113,7 +129,9 @@ I specialize in **Model-Agnostic AI Integration** and **robust full-stack automa
         </a>
       </p>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">⚡ Smart Tech Bangla</h3>
       <p align="center"><strong>Autonomous Meta Page Engine</strong></p>
       <p>Production-grade social media automation suite running 24/7 on FastAPI & Meta Graph API v19+.</p>
@@ -129,7 +147,7 @@ I specialize in **Model-Agnostic AI Integration** and **robust full-stack automa
         </a>
       </p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">☕ Local Coffee Shop</h3>
       <p align="center"><strong>Commercial Artisanal Web App</strong></p>
       <p>Ultra-fast, zero-dependency commercial web app built with modern semantic HTML5, CSS3, and JavaScript.</p>
