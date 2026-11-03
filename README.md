@@ -124,8 +124,8 @@ I specialize in **Model-Agnostic AI Integration** and **robust full-stack automa
         <li>⚡ <strong>Async Webhook Architecture</strong> with HMAC auth</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/mdsharifmia-dev/Smart_Tech_Bangla_Automation">
-          <img src="https://img.shields.io/badge/View_Automation_Suite-0969DA?style=for-the-badge&logo=fastapi&logoColor=white" width="100%" />
+        <a href="mailto:mdsharifmia.dev@gmail.com?subject=Private%20Demo%20Inquiry%3A%20Smart%20Tech%20Bangla%20Automation">
+          <img src="https://img.shields.io/badge/Client_Production-🔒_Private_Demo_Request-6E7681?style=for-the-badge&logo=fastapi&logoColor=white" width="100%" />
         </a>
       </p>
     </td>
@@ -135,14 +135,19 @@ I specialize in **Model-Agnostic AI Integration** and **robust full-stack automa
       <p>Ultra-fast, zero-dependency commercial web app built with modern semantic HTML5, CSS3, and JavaScript.</p>
       <ul>
         <li>📱 <strong>100% Responsive</strong> Nordic specialty design</li>
-        <li>🛒 <strong>Direct WhatsApp Ordering</strong> with pre-fills</li>
+        <li>💳 <strong>Integrated Checkout</strong> (bKash, Nagad, Card)</li>
         <li>🔍 <strong>Interactive Filtering</strong> & modal menus</li>
         <li>⚡ <strong>Zero Bloat</strong>, 100/100 Lighthouse performance</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/mdsharifmia-dev/Local-Coffee-Shop-Bakery">
-          <img src="https://img.shields.io/badge/Explore_Live_Store-DE5833?style=for-the-badge&logo=coffeescript&logoColor=white" width="100%" />
+        <a href="https://mdsharifmia-dev.github.io/Local-Coffee-Shop-Bakery/">
+          <img src="https://img.shields.io/badge/🌐_Launch_Live_App-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white" width="100%" />
         </a>
+        <a href="https://github.com/mdsharifmia-dev/Local-Coffee-Shop-Bakery">
+          <img src="https://img.shields.io/badge/View_Source_Code-DE5833?style=for-the-badge&logo=github&logoColor=white" width="100%" />
+        </a>
+      </p>
+    </td>
       </p>
     </td>
   </tr>
