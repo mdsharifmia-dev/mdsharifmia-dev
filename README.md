@@ -98,17 +98,17 @@ I specialize in **Model-Agnostic AI Integration** and **robust full-stack automa
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">🤖 1st-Agent</h3>
-      <p align="center"><strong>Autonomous Multi-Tool AI Assistant</strong></p>
-      <p>Autonomous personal AI agent architected with dynamic <strong>multi-model API support & native function calling</strong>.</p>
+      <h3 align="center">📰 News Collector Agent</h3>
+      <p align="center"><strong>Autonomous Multi-Tool News & Intelligence Suite</strong></p>
+      <p>Autonomous 24/7 personal news aggregator & AI agent with dynamic <strong>multi-model API support & native function calling</strong>.</p>
       <ul>
+        <li>📰 <strong>Live News Scraping</strong> & deduplication pipeline</li>
+        <li>⚡ <strong>AI Summarizer</strong> for rapid executive briefings</li>
         <li>🔍 <strong>Live Web Search</strong> via DuckDuckGo API</li>
         <li>🧠 <strong>Persistent Memory</strong> via embedded SQLite</li>
-        <li>⏰ <strong>Cron & Alert Scheduler</strong> for reminders</li>
-        <li>🔒 <strong>Zero-Trust Security</strong> (single-user locked)</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/mdsharifmia-dev/1st-Agent">
+        <a href="https://github.com/mdsharifmia-dev/News-Collector-Agent">
           <img src="https://img.shields.io/badge/View_Architecture_&_Code-238636?style=for-the-badge&logo=github&logoColor=white" width="100%" />
         </a>
       </p>
