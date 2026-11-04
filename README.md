@@ -67,6 +67,9 @@ I specialize in **Model-Agnostic AI Integration** and **robust full-stack automa
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/AsyncIO_Scheduler-4B8BBE?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Meta_Graph_API_v19-0668E1?style=flat-square&logo=meta&logoColor=white" />
+      <img src="https://img.shields.io/badge/IMAP_SSL_%26_Email_Daemon-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux_Systemd_Service-E95420?style=flat-square&logo=linux&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -114,6 +117,24 @@ I specialize in **Model-Agnostic AI Integration** and **robust full-stack automa
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">🤖 Autonomous AI Email Agent</h3>
+      <p align="center"><strong>Production Gmail & Telegram Intelligence Sentinel</strong></p>
+      <p>Autonomous 24/7 background email daemon with Gemini AI multi-model fallback, intelligent triage, and human-in-the-loop Telegram alerts.</p>
+      <ul>
+        <li>💼 <strong>Client Intelligence:</strong> Contextual summaries & pre-drafted client replies</li>
+        <li>🚨 <strong>Security Sentinel:</strong> Instant critical security breach & verification alerts</li>
+        <li>🔇 <strong>Zero-Noise Filter:</strong> Automatically suppresses marketing, newsletters & digests</li>
+        <li>⚡ <strong>Zero-Dependency:</strong> Pure Python 3.14 standard library + Systemd daemon</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/mdsharifmia-dev/Email-Automation">
+          <img src="https://img.shields.io/badge/View_Architecture_&_Code-238636?style=for-the-badge&logo=github&logoColor=white" width="100%" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">📰 News Collector Agent</h3>
       <p align="center"><strong>Autonomous Multi-Tool News & Intelligence Suite</strong></p>
       <p>Autonomous 24/7 personal news aggregator & AI agent with dynamic <strong>multi-model API support & native function calling</strong>.</p>
@@ -129,8 +150,6 @@ I specialize in **Model-Agnostic AI Integration** and **robust full-stack automa
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">⚡ Smart Tech Bangla</h3>
       <p align="center"><strong>Autonomous Meta Page Engine</strong></p>
@@ -141,30 +160,30 @@ I specialize in **Model-Agnostic AI Integration** and **robust full-stack automa
         <li>🛡️ <strong>Automated Spam Shield</strong> (auto-hides scams)</li>
         <li>⚡ <strong>Async Webhook Architecture</strong> with HMAC auth</li>
       </ul>
-      <p align="center">
+      <p align=center>
         <a href="mailto:mdsharifmia.dev@gmail.com?subject=Private%20Demo%20Inquiry%3A%20Smart%20Tech%20Bangla%20Automation">
           <img src="https://img.shields.io/badge/Client_Production-🔒_Private_Demo_Request-6E7681?style=for-the-badge&logo=fastapi&logoColor=white" width="100%" />
         </a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">☕ Local Coffee Shop</h3>
-      <p align="center"><strong>Commercial Artisanal Web App</strong></p>
-      <p>Ultra-fast, zero-dependency commercial web app built with modern semantic HTML5, CSS3, and JavaScript.</p>
-      <ul>
-        <li>📱 <strong>100% Responsive</strong> Nordic specialty design</li>
-        <li>💳 <strong>Integrated Checkout</strong> (bKash, Nagad, Card)</li>
-        <li>🔍 <strong>Interactive Filtering</strong> & modal menus</li>
-        <li>⚡ <strong>Zero Bloat</strong>, 100/100 Lighthouse performance</li>
-      </ul>
-      <p align="center">
-        <a href="https://mdsharifmia-dev.github.io/Local-Coffee-Shop-Bakery/">
-          <img src="https://img.shields.io/badge/🌐_Launch_Live_App-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white" width="100%" />
-        </a>
-        <a href="https://github.com/mdsharifmia-dev/Local-Coffee-Shop-Bakery">
-          <img src="https://img.shields.io/badge/View_Source_Code-DE5833?style=for-the-badge&logo=github&logoColor=white" width="100%" />
-        </a>
-      </p>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">☕ Local Coffee Shop & Artisanal Bakery</h3>
+      <p align="center"><strong>Ultra-Fast Commercial Web Application with Digital Ordering</strong></p>
+      <p align="center">Modern semantic, zero-dependency commercial web app built with responsive HTML5, CSS3, and JavaScript.</p>
+      <div align="center">
+        <p>📱 <strong>100% Responsive Design</strong> • 💳 <strong>bKash / Nagad / Card Checkout</strong> • 🔍 <strong>Live Product Filtering & Modal Menus</strong> • ⚡ <strong>100/100 Lighthouse Performance</strong></p>
+        <p>
+          <a href="https://mdsharifmia-dev.github.io/Local-Coffee-Shop-Bakery/">
+            <img src="https://img.shields.io/badge/🌐_Launch_Live_App-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white" />
+          </a>
+          &nbsp;&nbsp;
+          <a href="https://github.com/mdsharifmia-dev/Local-Coffee-Shop-Bakery">
+            <img src="https://img.shields.io/badge/View_Source_Code-DE5833?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+      </div>
     </td>
   </tr>
 </table>
