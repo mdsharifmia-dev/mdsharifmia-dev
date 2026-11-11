@@ -6,14 +6,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=Multi-LLM+Orchestration+%26+Model-Agnostic+AI+Pipelines;Building+Autonomous+Agents+with+Any+AI+API;Engineering+Zero-Downtime+Automation+Pipelines;Architecting+Scalable+Full-Stack+Platforms)](https://github.com/mdsharifmia-dev)
 
 <p align="center">
+  <a href="https://mdsharifmia-portfolio.pages.dev/">
+    <img src="https://img.shields.io/badge/Live_Portfolio-mdsharifmia--portfolio.pages.dev-00D2FF?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Live Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/mdsharifmiadev">
+    <img src="https://img.shields.io/badge/LinkedIn-mdsharifmiadev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="mailto:mdsharifmia.dev@gmail.com">
     <img src="https://img.shields.io/badge/Direct_Email-mdsharifmia.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/mdsharifmia-dev">
     <img src="https://img.shields.io/badge/Availability-Open_For_Contracts-238636?style=for-the-badge&logo=github&logoColor=white" alt="Availability" />
-  </a>
-  <a href="https://github.com/mdsharifmia-dev">
-    <img src="https://img.shields.io/badge/Response_Time-Within_1--2_Hours-0969DA?style=for-the-badge&logo=clock&logoColor=white" alt="Response Time" />
   </a>
 </p>
 
@@ -181,6 +184,25 @@ I specialize in **Model-Agnostic AI Integration** and **robust full-stack automa
           &nbsp;&nbsp;
           <a href="https://github.com/mdsharifmia-dev/Local-Coffee-Shop-Bakery">
             <img src="https://img.shields.io/badge/View_Source_Code-DE5833?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">Kinetic AI Engineer Portfolio &amp; Web Platform</h3>
+      <p align="center"><strong>High-Performance 60fps Web Architecture with Integrated AI Assistant</strong></p>
+      <p align="center">Production developer portfolio platform built with Astro 5, TypeScript, GSAP kinetic animations, Lenis smooth scrolling, and an interactive Gemini AI assistant deployed at the edge on Cloudflare Pages.</p>
+      <div align="center">
+        <p><strong>100/100 Lighthouse Performance</strong> • <strong>Sub-Second Edge Delivery</strong> • <strong>Bidirectional AI Chatbot</strong> • <strong>Flawless Responsive UX</strong></p>
+        <p>
+          <a href="https://mdsharifmia-portfolio.pages.dev/">
+            <img src="https://img.shields.io/badge/Launch_Live_Portfolio-00D2FF?style=for-the-badge&logo=cloudflarepages&logoColor=white" />
+          </a>
+          &nbsp;&nbsp;
+          <a href="https://github.com/mdsharifmia-dev/portfolio">
+            <img src="https://img.shields.io/badge/View_Source_Code-238636?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </p>
       </div>
